@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14_844_Backspace_Compare", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_557_Reverse_Words", "12_557_Reverse_Words\12_557_Reverse_Words.csproj", "{7A69E972-E8B5-4630-8DC3-E4D0BC9B3458}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_500_Find_Words", "15_500_Find_Words\15_500_Find_Words.csproj", "{9FFFFCA4-D12A-4D99-9D41-1B669342C422}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{7A69E972-E8B5-4630-8DC3-E4D0BC9B3458}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A69E972-E8B5-4630-8DC3-E4D0BC9B3458}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A69E972-E8B5-4630-8DC3-E4D0BC9B3458}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FFFFCA4-D12A-4D99-9D41-1B669342C422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FFFFCA4-D12A-4D99-9D41-1B669342C422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FFFFCA4-D12A-4D99-9D41-1B669342C422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FFFFCA4-D12A-4D99-9D41-1B669342C422}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
