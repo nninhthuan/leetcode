@@ -53,9 +53,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19_575_Distribute_Candies",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21_852_Peak_Index_In_Mountain_Array", "21_852_Peak_Index_In_Mountain_Array\21_852_Peak_Index_In_Mountain_Array.csproj", "{7B0EB626-4CE5-4B6B-ABCA-7712846DC426}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8_824_To_Goat_Latin", "8_824_To_Goat_Latin\8_824_To_Goat_Latin.csproj", "{6033B9A5-8383-4045-B10E-426982355C06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8_824_To_Goat_Latin", "8_824_To_Goat_Latin\8_824_To_Goat_Latin.csproj", "{6033B9A5-8383-4045-B10E-426982355C06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36_690_Get_Importance", "36_690_Get_Importance\36_690_Get_Importance.csproj", "{882EE6FF-1BAD-4655-AD7A-16774A5EBACA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "36_690_Get_Importance", "36_690_Get_Importance\36_690_Get_Importance.csproj", "{882EE6FF-1BAD-4655-AD7A-16774A5EBACA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9_766_Is_Toeplitz_Matrix", "9_766_Is_Toeplitz_Matrix\9_766_Is_Toeplitz_Matrix.csproj", "{83E86226-5522-4382-A99F-882ACFDA2369}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20_566_Matrix_Reshape", "20_566_Matrix_Reshape\20_566_Matrix_Reshape.csproj", "{A2D35E97-DFD3-4353-9004-E616F424958A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "50_598_Max_Count", "50_598_Max_Count\50_598_Max_Count.csproj", "{856C8E0B-5F8B-4B23-AEBF-1AF5723A99FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "55_349_Intersection", "55_349_Intersection\55_349_Intersection.csproj", "{2A7F0AB9-4C19-4255-B76B-581050DD1C5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "51_492_Construct_Rectangle", "51_492_Construct_Rectangle\51_492_Construct_Rectangle.csproj", "{317C4C90-F041-4A3C-9D5E-88333FEDDFFC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +181,26 @@ Global
 		{882EE6FF-1BAD-4655-AD7A-16774A5EBACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{882EE6FF-1BAD-4655-AD7A-16774A5EBACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{882EE6FF-1BAD-4655-AD7A-16774A5EBACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83E86226-5522-4382-A99F-882ACFDA2369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83E86226-5522-4382-A99F-882ACFDA2369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83E86226-5522-4382-A99F-882ACFDA2369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83E86226-5522-4382-A99F-882ACFDA2369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2D35E97-DFD3-4353-9004-E616F424958A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2D35E97-DFD3-4353-9004-E616F424958A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2D35E97-DFD3-4353-9004-E616F424958A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2D35E97-DFD3-4353-9004-E616F424958A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{856C8E0B-5F8B-4B23-AEBF-1AF5723A99FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{856C8E0B-5F8B-4B23-AEBF-1AF5723A99FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{856C8E0B-5F8B-4B23-AEBF-1AF5723A99FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{856C8E0B-5F8B-4B23-AEBF-1AF5723A99FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A7F0AB9-4C19-4255-B76B-581050DD1C5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A7F0AB9-4C19-4255-B76B-581050DD1C5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A7F0AB9-4C19-4255-B76B-581050DD1C5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A7F0AB9-4C19-4255-B76B-581050DD1C5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{317C4C90-F041-4A3C-9D5E-88333FEDDFFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{317C4C90-F041-4A3C-9D5E-88333FEDDFFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{317C4C90-F041-4A3C-9D5E-88333FEDDFFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{317C4C90-F041-4A3C-9D5E-88333FEDDFFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
