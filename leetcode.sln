@@ -91,25 +91,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "104_917_Reverse_Only_Letter
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "124_367_Is_Perfect_Square", "124_367_Is_Perfect_Square\124_367_Is_Perfect_Square.csproj", "{17D09909-DC12-413C-82D8-0A1D008F9B0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22_463_Island_Perimeter", "22_463_Island_Perimeter\22_463_Island_Perimeter.csproj", "{DC9C89A1-52FA-42CA-B9CF-5E1C57929AF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22_463_Island_Perimeter", "22_463_Island_Perimeter\22_463_Island_Perimeter.csproj", "{DC9C89A1-52FA-42CA-B9CF-5E1C57929AF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32_104_Max_Depth", "32_104_Max_Depth\32_104_Max_Depth.csproj", "{A5E5E2FD-2690-4532-9DFD-5EEF7BE2B6C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "32_104_Max_Depth", "32_104_Max_Depth\32_104_Max_Depth.csproj", "{A5E5E2FD-2690-4532-9DFD-5EEF7BE2B6C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42_283_Move_Zeroes", "42_283_Move_Zeroes\42_283_Move_Zeroes.csproj", "{DBE4A8B5-BD25-473E-B6E1-DCCA4D402DD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "42_283_Move_Zeroes", "42_283_Move_Zeroes\42_283_Move_Zeroes.csproj", "{DBE4A8B5-BD25-473E-B6E1-DCCA4D402DD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "52_171_Title_To_Number", "52_171_Title_To_Number\52_171_Title_To_Number.csproj", "{8CB3ADD8-BDC6-4FD8-88E0-0DF679953E53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "52_171_Title_To_Number", "52_171_Title_To_Number\52_171_Title_To_Number.csproj", "{8CB3ADD8-BDC6-4FD8-88E0-0DF679953E53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "62_455_Find_Content_Children", "62_455_Find_Content_Children\62_455_Find_Content_Children.csproj", "{38EC020E-994E-4257-83C8-9734A98C4CE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "62_455_Find_Content_Children", "62_455_Find_Content_Children\62_455_Find_Content_Children.csproj", "{38EC020E-994E-4257-83C8-9734A98C4CE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "82_350_Intersect", "82_350_Intersect\82_350_Intersect.csproj", "{1E143836-5C79-4E79-9CC0-C2DEE6889B89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "82_350_Intersect", "82_350_Intersect\82_350_Intersect.csproj", "{1E143836-5C79-4E79-9CC0-C2DEE6889B89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "102_326_Is_Power_Of_Three", "102_326_Is_Power_Of_Three\102_326_Is_Power_Of_Three.csproj", "{05334BB8-CEDB-4F01-9DB7-89C1E3E81835}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "102_326_Is_Power_Of_Three", "102_326_Is_Power_Of_Three\102_326_Is_Power_Of_Three.csproj", "{05334BB8-CEDB-4F01-9DB7-89C1E3E81835}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "122_345_Reverse_Vowels", "122_345_Reverse_Vowels\122_345_Reverse_Vowels.csproj", "{1D8DF5F8-EEFB-4BDB-A9A3-29448D54DA12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "122_345_Reverse_Vowels", "122_345_Reverse_Vowels\122_345_Reverse_Vowels.csproj", "{1D8DF5F8-EEFB-4BDB-A9A3-29448D54DA12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "142_9_Is_Palindrome", "142_9_Is_Palindrome\142_9_Is_Palindrome.csproj", "{DCCD490D-67AB-4FB0-9967-33CC0DDB8B78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "142_9_Is_Palindrome", "142_9_Is_Palindrome\142_9_Is_Palindrome.csproj", "{DCCD490D-67AB-4FB0-9967-33CC0DDB8B78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "144_942_Di_String_Match", "144_942_Di_String_Match\144_942_Di_String_Match.csproj", "{13C7C3F1-056A-4124-903A-1BE83097D952}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "144_942_Di_String_Match", "144_942_Di_String_Match\144_942_Di_String_Match.csproj", "{13C7C3F1-056A-4124-903A-1BE83097D952}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "27_521_Find_LUS_length", "27_521_Find_LUS_length\27_521_Find_LUS_length.csproj", "{4A334C31-0376-4CF2-9D72-527A6454F7B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "37_695_Max_Area_Of_Island", "27_695_Max_Area_Of_Island\37_695_Max_Area_Of_Island.csproj", "{F5A8763E-FF11-4F41-BB0A-229D593CF482}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -333,6 +337,14 @@ Global
 		{13C7C3F1-056A-4124-903A-1BE83097D952}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13C7C3F1-056A-4124-903A-1BE83097D952}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13C7C3F1-056A-4124-903A-1BE83097D952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A334C31-0376-4CF2-9D72-527A6454F7B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A334C31-0376-4CF2-9D72-527A6454F7B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A334C31-0376-4CF2-9D72-527A6454F7B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A334C31-0376-4CF2-9D72-527A6454F7B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5A8763E-FF11-4F41-BB0A-229D593CF482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A8763E-FF11-4F41-BB0A-229D593CF482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A8763E-FF11-4F41-BB0A-229D593CF482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A8763E-FF11-4F41-BB0A-229D593CF482}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

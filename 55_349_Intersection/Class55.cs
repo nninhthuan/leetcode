@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _50_598_Max_Count
+namespace _55_349_Intersection
 {
     public class Solution
     {
@@ -41,9 +41,9 @@ namespace _50_598_Max_Count
 
         public static void Main(string[] args)
         {
-            int[] arr = { 1, 2, 3, 4  };
+            int[] arr = { 1, 2, 3, 4 };
 
-            int[] arr2 = {  9, 5, 1, 2  };
+            int[] arr2 = { 9, 5, 1, 2 };
 
             int[] result = Intersection(arr2, arr);
         }
